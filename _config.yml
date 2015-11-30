@@ -1,7 +1,7 @@
 name: DATE
 favicon: null
-layout_spectrum: 0.6861302386969328
-typography_spectrum: 0.8138011801056564
+layout_spectrum: 0.34307
+typography_spectrum: 0.5985
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f7f8f3'
+    - '#d7d8d3'
+    - '#222224'
+    - '#52534e'
+    - '#90918c'
   brandStrength: 0.7038389607332647
-  lightness: 0.2559279380366206
-  saturation: 0.6299132867716253
-  rhythmicContrast: 0.19881218392401934
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
