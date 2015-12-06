@@ -1,7 +1,7 @@
 name: DATE
 favicon: null
-layout_spectrum: 0.35563
-typography_spectrum: 0.27096
+layout_spectrum: 0.63099
+typography_spectrum: 0.20623
 title: DATE - 3D Architectural Visualization
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#52534e'
     - '#90918c'
   brandStrength: 0.7038389607332647
-  lightness: 0.25
+  lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
